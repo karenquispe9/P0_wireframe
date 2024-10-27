@@ -12,7 +12,7 @@ Una aplicación web diseñada para los amantes de las guitarras de lujo. Present
      - Sección de destacados con imágenes y descripciones breves de las guitarras más exclusivas.
      - Enlace a la sección de productos para explorar todo el catálogo.
 
-   ![Wireframe Página de Inicio](img/pagina_inicio.jpg.)
+   ![Wireframe Página de Inicio](img/pagina_inicio.jpg)
    *Wireframe de la Página de Inicio mostrando la presentación de la tienda y productos destacados.*
 
 ### 2. Catálogo de Productos
