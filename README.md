@@ -32,7 +32,7 @@ Una aplicación web diseñada para los amantes de las guitarras de lujo. Present
      - Reseñas de clientes sobre el producto.
      - Formulario para insertar nuevos productos (disponible para administradores).
 
-   ![Wireframe Detalles del Producto]
+
    *Wireframe de la Página de Detalles del Producto con imágenes, especificaciones y reseñas.*
 
 ### 4. Cistella de Compra
